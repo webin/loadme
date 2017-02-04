@@ -1,8 +1,9 @@
+
 loadme💫 最全的适用于移动端的loading库
 ====
 
 [![Build Status](https://api.travis-ci.org/zx1988826/tin-flex.svg?branch=master)](https://travis-ci.org/zx1988826/loadme)
-[![npm version](https://img.shields.io/badge/npm-v1.0.0-blue.svg)](https://www.npmjs.com/package/tin-flex)
+[![npm version](https://img.shields.io/badge/npm-v1.1.0-blue.svg)](https://www.npmjs.com/package/tin-flex)
 [![Gitter](https://badges.gitter.im/weui/weui.svg)](https://gitter.im/loadme)
 
 ## 概述
@@ -23,6 +24,26 @@ loadme非常简单，因为它仅仅是个CSS3样式库。加载loadme.css后，
 <div class="loadme-mask"></div>
 ```
 ![circular](http://ohwq8bodu.bkt.clouddn.com/git/cir.gif)
+
+#### love loading
+```html
+<div class="loadmeLove"></div>
+```
+![circular](http://ohwq8bodu.bkt.clouddn.com/git/love.gif)
+
+#### clock loading
+```html
+<div class="loadme-mask"></div>
+<div class="loadmeClock">
+    <div class="loadmeClock-body">
+        <div class="loadmeClock-pendulum">
+            <div class="loadmePendulum-stick"></div>
+            <div class="loadmePendulum-body"></div>
+        </div>
+    </div>
+</div>
+```
+![circular](http://ohwq8bodu.bkt.clouddn.com/git/clock.gif)
 
 #### rotateplane loading
 ```html
