@@ -8,7 +8,7 @@ loadme💫 最全的适用于移动端的loading库
 
 ## 概述
 
-loadme 几乎是目前最全的适用于移动端的loading css3样式库，并且还在不断持续更新中，而且使用它也非常的简单。因为它是纯CSS3的代码，不包含任何JS。
+loadme 几乎是目前最全的适用于移动端的loading css3样式库，并且还在不断持续更新中，而且使用它也非常的简单。因为它几乎是纯CSS3的代码。
 
 ## 文档
 #### 基本使用
@@ -124,7 +124,7 @@ loadme非常简单，因为它仅仅是个CSS3样式库。加载loadme.css后，
 
 ## 扩展
 - [tin-flex (基于flex的极简框架)](https://github.com/zx1988826/tin-flex/)
-- [tin-ui (强大且极简的移动端UI框架)](https://github.com/zx1988826/tin-ui/)
+- [tinui (强大且极简的移动端UI框架)](https://github.com/zx1988826/tinui/)
 
 ## License
 The MIT License(http://opensource.org/licenses/MIT)
