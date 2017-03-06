@@ -129,13 +129,13 @@ loadme is very simple,Because it is almost pure CSS 3 code.After loading the `lo
 ```
 ![foldingCube](http://ohwq8bodu.bkt.clouddn.com/git/foldingCube.gif)
 
-## 扩展
-- [tin-flex (基于flex的极简框架)](https://github.com/zx1988826/tin-flex/)
-- [tinui (强大且极简的移动端UI框架)](https://github.com/zx1988826/tinui/)
+## extension
+- [tin-flex (Based on the flex framework of the minimalist)](https://github.com/zx1988826/tin-flex/)
+- [tinui (Powerful and minimalist mobile UI framework)](https://github.com/zx1988826/tinui/)
 
 ## License
 The MIT License(http://opensource.org/licenses/MIT)
 
-## 贡献
+## contribution
 
-如果你有好的意见或建议，欢迎给我们提issue或pull request
+If you have good ideas or Suggestions，Welcome to our issue or pull request
