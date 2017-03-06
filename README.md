@@ -3,7 +3,7 @@ loadme💫 最全的适用于移动端的loading库
 ====
 
 [![Build Status](https://api.travis-ci.org/zx1988826/tin-flex.svg?branch=master)](https://travis-ci.org/zx1988826/loadme)
-[![npm version](https://img.shields.io/badge/npm-v1.1.0-blue.svg)](https://www.npmjs.com/package/tin-flex)
+[![npm version](https://img.shields.io/badge/npm-v1.2.0-blue.svg)](https://www.npmjs.com/package/tin-flex)
 [![Gitter](https://badges.gitter.im/weui/weui.svg)](https://gitter.im/loadme)
 
 ## 概述
@@ -29,7 +29,13 @@ loadme非常简单，因为它仅仅是个CSS3样式库。加载loadme.css后，
 ```html
 <div class="loadmeLove"></div>
 ```
-![circular](http://ohwq8bodu.bkt.clouddn.com/git/love.gif)
+![love](http://ohwq8bodu.bkt.clouddn.com/git/love.gif)
+
+#### ios loading
+```html
+<div class="loadme-ios"></div>
+```
+![ios](http://ohwq8bodu.bkt.clouddn.com/git/iosloading.gif)
 
 #### clock loading
 ```html
@@ -43,84 +49,84 @@ loadme非常简单，因为它仅仅是个CSS3样式库。加载loadme.css后，
     </div>
 </div>
 ```
-![circular](http://ohwq8bodu.bkt.clouddn.com/git/clock.gif)
+![clock](http://ohwq8bodu.bkt.clouddn.com/git/clock.gif)
 
 #### rotateplane loading
 ```html
 <div class="loadme-rotateplane"></div>
 <div class="loadme-mask"></div>
 ```
-![circular](http://ohwq8bodu.bkt.clouddn.com/git/rotateplane.gif)
+![rotateplane](http://ohwq8bodu.bkt.clouddn.com/git/rotateplane.gif)
 
 #### cubeGrid loading
 ```html
 <div class="loadme-cubeGrid"></div>
 <div class="loadme-mask"></div>
 ```
-![circular](http://ohwq8bodu.bkt.clouddn.com/git/cubeGrid.gif)
+![cubeGrid](http://ohwq8bodu.bkt.clouddn.com/git/cubeGrid.gif)
 
 #### circleBounce loading
 ```html
 <div class="loadme-circleBounce"></div>
 <div class="loadme-mask"></div>
 ```
-![circular](http://ohwq8bodu.bkt.clouddn.com/git/circleBounce.gif)
+![circleBounce](http://ohwq8bodu.bkt.clouddn.com/git/circleBounce.gif)
 
 #### loadmeRect loading
 ```html
 <div class="loadme-loadmeRect"></div>
 <div class="loadme-mask"></div>
 ```
-![circular](http://ohwq8bodu.bkt.clouddn.com/git/loadmeRect.gif)
+![loadmeRect](http://ohwq8bodu.bkt.clouddn.com/git/loadmeRect.gif)
 
 #### cube loading
 ```html
 <div class="loadme-cube"></div>
 <div class="loadme-mask"></div>
 ```
-![circular](http://ohwq8bodu.bkt.clouddn.com/git/cube.gif)
+![cube](http://ohwq8bodu.bkt.clouddn.com/git/cube.gif)
 
 #### scaleout loading
 ```html
 <div class="loadme-scaleout"></div>
 <div class="loadme-mask"></div>
 ```
-![circular](http://ohwq8bodu.bkt.clouddn.com/git/scaleout.gif)
+![scaleout](http://ohwq8bodu.bkt.clouddn.com/git/scaleout.gif)
 
 #### dot loading
 ```html
 <div class="loadme-dot"></div>
 <div class="loadme-mask"></div>
 ```
-![circular](http://ohwq8bodu.bkt.clouddn.com/git/dot.gif)
+![dot](http://ohwq8bodu.bkt.clouddn.com/git/dot.gif)
 
 #### bounced loading
 ```html
 <div class="loadme-bounced"></div>
 <div class="loadme-mask"></div>
 ```
-![circular](http://ohwq8bodu.bkt.clouddn.com/git/bounced.gif)
+![bounced](http://ohwq8bodu.bkt.clouddn.com/git/bounced.gif)
 
 #### circlePoint loading
 ```html
 <div class="loadme-circlePoint"></div>
 <div class="loadme-mask"></div>
 ```
-![circular](http://ohwq8bodu.bkt.clouddn.com/git/circlePoint.gif)
+![circlePoint](http://ohwq8bodu.bkt.clouddn.com/git/circlePoint.gif)
 
 #### fadingCircle loading
 ```html
 <div class="loadme-fadingCircle"></div>
 <div class="loadme-mask"></div>
 ```
-![circular](http://ohwq8bodu.bkt.clouddn.com/git/fadingCircle.gif)
+![fadingCircle](http://ohwq8bodu.bkt.clouddn.com/git/fadingCircle.gif)
 
 #### foldingCube loading
 ```html
 <div class="loadme-foldingCube"></div>
 <div class="loadme-mask"></div>
 ```
-![circular](http://ohwq8bodu.bkt.clouddn.com/git/foldingCube.gif)
+![foldingCube](http://ohwq8bodu.bkt.clouddn.com/git/foldingCube.gif)
 
 ## 扩展
 - [tin-flex (基于flex的极简框架)](https://github.com/zx1988826/tin-flex/)
