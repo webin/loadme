@@ -1,19 +1,18 @@
 
-loadme💫 The most comprehensive applicable to the loading library on mobile
+loadme💫 最全的适用于移动端的loading库
 ====
 
 [![Build Status](https://api.travis-ci.org/zx1988826/tin-flex.svg?branch=master)](https://travis-ci.org/zx1988826/loadme)
 [![npm version](https://img.shields.io/badge/npm-v1.2.0-blue.svg)](https://www.npmjs.com/package/tin-flex)
 [![Gitter](https://badges.gitter.im/weui/weui.svg)](https://gitter.im/loadme)
 
-## introduction
+## 概述
 
-loadme Almost is the most comprehensive loading library is suitable for the mobile end style,And also in a continuously updated constantly,And it is also very easy to use,Because it is almost pure CSS 3 code.
+loadme 几乎是目前最全的适用于移动端的loading css3样式库，并且还在不断持续更新中，而且使用它也非常的简单。因为它几乎是纯CSS3的代码。
 
-## document
-[简体中文文档](https://github.com/zx1988826/loadme/blob/master/CN.md)  
-#### the basic use
-loadme is very simple,Because it is almost pure CSS 3 code.After loading the `loadme.css`,you can easily use it.`loadme-mask` is the mask layer,you can use it selectively,`loadme-circular` is what you need to load the loading style.
+## 文档
+#### 基本使用
+loadme非常简单，因为它仅仅是个CSS3样式库。加载loadme.css后，你就可以轻松使用它了。loadme-mask 是遮罩层，你可以选择性的使用它，loadme-circular 则是你需要加载的loading样式。
 
 ```html
 <link rel="stylesheet" type="text/css" href="loadme.css">
@@ -138,4 +137,4 @@ The MIT License(http://opensource.org/licenses/MIT)
 
 ## 贡献
 
-如果你有好的意见或建议，欢迎给我们提issue或pull request
+如果你有好的意见或建议，欢迎给我们提issue或pull request，为提升loadme体验贡献力量
