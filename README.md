@@ -3,7 +3,7 @@ loadme💫 The most comprehensive applicable to the loading library on mobile
 ====
 
 [![Build Status](https://api.travis-ci.org/zx1988826/tin-flex.svg?branch=master)](https://travis-ci.org/zx1988826/loadme)
-[![npm version](https://img.shields.io/badge/npm-v1.2.0-blue.svg)](https://www.npmjs.com/package/tin-flex)
+[![npm version](https://img.shields.io/badge/npm-v1.3.0-blue.svg)](https://www.npmjs.com/package/tin-flex)
 [![Gitter](https://badges.gitter.im/weui/weui.svg)](https://gitter.im/loadme)
 
 ## introduction
